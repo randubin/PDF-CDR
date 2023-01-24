@@ -1,0 +1,3 @@
+mal before - {'obj': 228574, 'endobj': 247136, 'stream': 57877, 'endstream': 64351, 'xref': 11081, 'trailer': 12074, 'startxref': 11584, '/Page': 20972, '/Encrypt': 36, '/ObjStm': 2416, '/JS': 10838, '/JavaScript': 13429, '/AA': 453, '/OpenAction': 7277, '/AcroForm': 2427, '/JBIG2Decode': 17, '/RichMedia': 49, '/Launch': 230, '/EmbeddedFile': 7869, '/XFA': 1418, '/URI': 43744, '/Colors': 9}
+clean before - {'obj': 265810, 'endobj': 265778, 'stream': 107028, 'endstream': 106725, 'xref': 1367, 'trailer': 1367, 'startxref': 1552, '/Page': 14195, '/Encrypt': 31, '/ObjStm': 2734, '/JS': 52, '/JavaScript': 34, '/AA': 59, '/OpenAction': 195, '/AcroForm': 104, '/JBIG2Decode': 1746, '/RichMedia': 0, '/Launch': 0, '/EmbeddedFile': 40, '/XFA': 0, '/URI': 2378, '/Colors': 0}
+
