@@ -1,5 +1,5 @@
 # PDF-CDR
-This is the repository for the Research Content Disarm and Reconstruction of
+This is the repository for the Research work: Content Disarm and Reconstruction of
 PDF Files.
 
 The work was submitted to IEEE OpenAccess.
